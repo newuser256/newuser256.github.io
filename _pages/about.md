@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-<img src="/assets/photo.png" width="20%" style="max-width: 100%; height: auto;">
+<img src="/assets/photo.png" width="20%" style="max-width: 100%; min-width: 100px; height: auto;">
 
 <center><h2>Abhinav Mehndiratta</h2></center>
 
