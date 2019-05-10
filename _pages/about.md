@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <center>
-<img src="/assets/photo.png" width="20%" style="max-width: 100%; min-width: 100px; height: auto;">
+<img src="/assets/photo.png" width="23%" style="max-width: 100%; min-width: 100px; height: auto;">
 
 <h2>Abhinav Mehndiratta</h2>
 </center>
