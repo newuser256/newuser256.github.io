@@ -4,6 +4,8 @@ title: "About"
 permalink: /about/
 ---
 
+<img src="/assets/photo.png" height="20%" width="20%">
+
 <center><h2>Abhinav Mehndiratta</h2></center>
 
 I am an undergraduate computer science student at Delhi Technological University.
